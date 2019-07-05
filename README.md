@@ -1,1 +1,1 @@
-# juspuphp
+# juspu
